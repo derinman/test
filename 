@@ -1,0 +1,97 @@
+[33mcommit 08fec45b69498b185191d6439df9ead2519f7b37[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: inman <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:51:18 2020 +0800
+
+    non-binary file
+
+[33mcommit 9872597566cdcb5befc43037192aed77c2aa19a2[m
+Author: inman <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:42:43 2020 +0800
+
+    認真?
+
+[33mcommit d2baa3a38da0c07904f7a645113544e8422c50e8[m
+Merge: ec19ee9 1beb4e2
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:30:39 2020 +0800
+
+    modified
+
+[33mcommit ec19ee9a76c90c230911a3744129803e4030ec29[m
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:27:27 2020 +0800
+
+    modified text
+
+[33mcommit 1beb4e2fe40350199275b874155ae0acc8009f04[m
+Author: inman <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:25:25 2020 +0800
+
+    modified hello.py
+
+[33mcommit f48e32248e2bb29249e438e7dbba6c98e4368cc3[m
+Author: inman <sf990668852@gmail.com>
+Date:   Fri Jun 12 11:16:10 2020 +0800
+
+    edit hello.py
+
+[33mcommit cc86b382e5f1f638ddb72c5ad8e0c5b6661b3a05[m[33m ([m[1;32mdeskpc[m[33m)[m
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Thu Jun 11 11:48:57 2020 +0800
+
+    commit 測試
+
+[33mcommit 090d8c3e87254e08408be84b5700824119508923[m
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Thu Jun 11 11:35:33 2020 +0800
+
+    commit hello.php
+
+[33mcommit 12eb4202ebc3b50288796f6cb860768f94089b61[m
+Merge: 7296515 b281530
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Thu Jun 11 11:22:58 2020 +0800
+
+    Merge branch 'master' of https://github.com/derinman/test
+
+[33mcommit 72965154bf4384dcb41402331b431fdb5145087c[m
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Thu Jun 11 10:44:17 2020 +0800
+
+    commit for simple_loop.py
+
+[33mcommit 8bd2083d6c9737df760b91d25bea1e166694a31a[m
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Thu Jun 11 10:22:07 2020 +0800
+
+    commit simple python loop
+
+[33mcommit b281530a75ef9b826abc069209e9b5f51b420e8c[m
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Tue Jun 9 14:33:52 2020 +0800
+
+    init hello.js
+
+[33mcommit a6db31697dd35c35de0678b4b4e47cee447f4a91[m
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Tue Jun 9 14:00:22 2020 +0800
+
+    hello.cpp init
+
+[33mcommit 4640ae7e1424b1255cd9b59444c34c70606549c2[m
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Tue Jun 9 12:10:45 2020 +0800
+
+    init hello.py
+
+[33mcommit 14307a6f9ea104ef28d440e07b740d5f9553c9c0[m
+Author: inman hsueh <sf990668852@gmail.com>
+Date:   Mon Jun 8 21:02:33 2020 +0800
+
+    second git in my life
+
+[33mcommit a219e0723563dd941dd77d3d67f4c86a1235e964[m
+Author: Inman Hsueh <sf990668852@gmail.com>
+Date:   Mon Jun 8 17:59:59 2020 +0800
+
+    First initial commit
