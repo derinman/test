@@ -2,8 +2,9 @@
 
 int main(){
     using namespace std;
-    int a;
+    int a, b;
     a = 5;
-    cout<<a;
+    b = 32;
+    cout<<a+b;
     return 0;
 }
