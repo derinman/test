@@ -9,4 +9,5 @@ else:
     print("2")
 
 print("hi")
-    
+
+print("fuck")
