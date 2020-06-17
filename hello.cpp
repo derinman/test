@@ -1,5 +1,5 @@
 #include <iostream>
-
+int a;
 int main(){
     using namespace std;
     int a, b;
@@ -8,3 +8,4 @@ int main(){
     cout<<a+b;
     return 0;
 }
+
